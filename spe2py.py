@@ -1,3 +1,5 @@
+#SCRIPT WRITTEN BY DANIEL ABRAHAM ELMALEH, EPFL LAUSANNE
+
 import spe2py as spe
 import matplotlib.pyplot as plt
 import numpy as np
