@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/repo-banner.svg" alt="Raman Creatinine Quantification banner" width="100%" />
-</p>
-
 # Raman Creatinine Quantification
 
 This repository contains a complete Raman spectroscopy workflow for creatinine quantification, from raw acquisition parsing to preprocessing, augmentation, and model evaluation.
