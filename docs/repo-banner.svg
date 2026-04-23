@@ -1,0 +1,29 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="96" y1="32" x2="1184" y2="288" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1F2A"/>
+      <stop offset="0.5" stop-color="#17465D"/>
+      <stop offset="1" stop-color="#3A8CA5"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#8BE9FD"/>
+      <stop offset="1" stop-color="#F9C74F"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="1248" height="288" rx="28" fill="url(#bg)"/>
+  <path d="M84 221C151 175 221 129 290 129C359 129 421 187 491 187C560 187 613 112 683 112C752 112 808 191 882 191C952 191 1039 120 1166 86" stroke="url(#line)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M84 248C151 202 221 156 290 156C359 156 421 214 491 214C560 214 613 139 683 139C752 139 808 218 882 218C952 218 1039 147 1166 113" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="290" cy="129" r="8" fill="#8BE9FD"/>
+  <circle cx="491" cy="187" r="8" fill="#F9C74F"/>
+  <circle cx="683" cy="112" r="8" fill="#8BE9FD"/>
+  <circle cx="882" cy="191" r="8" fill="#F9C74F"/>
+  <rect x="84" y="64" width="180" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="112" y="86" fill="#DFF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Raman Spectroscopy</text>
+  <text x="84" y="138" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Raman Creatinine Quantification</text>
+  <text x="84" y="178" fill="#D9EEF5" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    Preprocessing and modeling workflows for creatinine concentration estimation from Raman spectra.
+  </text>
+  <text x="84" y="264" fill="#D9EEF5" font-family="Consolas, Menlo, monospace" font-size="18">
+    notebooks + processed spectra + trained weights
+  </text>
+</svg>
